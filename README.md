@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [我的开源](https://www.liumapp.com/my-github-repos)
 * [solo-in-docker现已支持https](https://www.liumapp.com/articles/2019/05/23/1558578407774.html)
 * [acme.sh获取Let's encrypt证书](https://www.liumapp.com/articles/2019/05/23/1558574698880.html)
 * [Mysql创建单列索引解决单表LongBlob字段查询过慢问题](https://www.liumapp.com/articles/2019/05/21/1558429665771.html)
@@ -29,7 +30,6 @@ liumapp
 * [处理Mysql常见问题之：“Unknown system variab le 'tx_isolation'”](https://www.liumapp.com/articles/2019/03/20/1553062186647.html)
 * [处理MySQL常见问题之："[ERR] 2006 - MySQL server has gone away"](https://www.liumapp.com/articles/2019/03/20/1553044657099.html)
 * [jdk1.8中使用最新的时间方法](https://www.liumapp.com/articles/2019/03/17/1552826323755.html)
-* [个人简历](https://www.liumapp.com/articles/2018/01/23/1516719601227.html)
 
 ### 热门
 
@@ -49,9 +49,9 @@ liumapp
 * [Failed to execute goal org.sonatype.plugins](https://www.liumapp.com/articles/2017/11/27/1511745116428.html)
 * [SpringBoot2.x下使用Redis报ClassNotFoundException: redis.clients.jedis.JedisPoolConfig](https://www.liumapp.com/articles/2018/09/18/1537239301796.html)
 * [gpg的安装使用](https://www.liumapp.com/articles/2017/07/20/1500521485758.html)
+* [docker-compose:在容器中添加中文字体](https://www.liumapp.com/articles/2018/06/05/1528179707247.html)
 * [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
 * [前后端分离实践——Jsonp数据交互](https://www.liumapp.com/articles/2017/11/08/1510100732467.html)
-* [docker-compose:在容器中添加中文字体](https://www.liumapp.com/articles/2018/06/05/1528179707247.html)
 * [自定义iView的Modal组件](https://www.liumapp.com/articles/2018/05/29/1527511707286.html)
 
 ### 热议
