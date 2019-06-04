@@ -17,12 +17,8 @@ liumapp
 * [Hello, Caddy](https://www.liumapp.com/articles/2019/05/21/1558408869892.html)
 * [可能是国内封装Libreoffice最好的一个项目](https://www.liumapp.com/articles/2019/05/17/1558083959455.html)
 * [Maven与Gradle构建Fat-Jar工程](https://www.liumapp.com/articles/2019/05/13/1557747040354.html)
-* [腾讯面试题：一条SQL语句执行得很慢的原因有哪些？](https://www.liumapp.com/articles/2019/04/30/1556609835948.html)
 * [干货：如何模拟超过 5 万的并发用户](https://www.liumapp.com/articles/2019/04/28/1556414111333.html)
-* [面试并发的核心：CAS 是什么？Java8是如何优化 CAS 的？](https://www.liumapp.com/articles/2019/04/26/1556263958685.html)
 * [CentOS7安装LibreOffice6.2.3](https://www.liumapp.com/articles/2019/04/25/1556178926172.html)
-* [一份还热乎的蚂蚁金服面经（已拿Offer）！附答案！！](https://www.liumapp.com/articles/2019/04/24/1556072606573.html)
-* [面试官：不使用synchronized和lock，如何实现一个线程安全的单例？](https://www.liumapp.com/articles/2019/04/24/1556071403521.html)
 * [基于aspose.word的Java文档转换项目](https://www.liumapp.com/articles/2019/04/15/1555310407274.html)
 * [通过本地repository加载jar包到Maven依赖中](https://www.liumapp.com/articles/2019/04/12/1555053553824.html)
 * [docker-compose编排solo+mysql镜像](https://www.liumapp.com/articles/2019/04/04/1554361784974.html)
@@ -30,14 +26,18 @@ liumapp
 * [处理Mysql常见问题之：“Unknown system variab le 'tx_isolation'”](https://www.liumapp.com/articles/2019/03/20/1553062186647.html)
 * [处理MySQL常见问题之："[ERR] 2006 - MySQL server has gone away"](https://www.liumapp.com/articles/2019/03/20/1553044657099.html)
 * [jdk1.8中使用最新的时间方法](https://www.liumapp.com/articles/2019/03/17/1552826323755.html)
+* [记事本](https://www.liumapp.com/articles/2019/02/11/1549895850288.html)
+* [发布项目到Maven中央仓库无法通过gpg认证的问题](https://www.liumapp.com/articles/2019/01/28/1548683053471.html)
+* [发布项目到Maven中央仓库无法通过gpg认证的问题](https://www.liumapp.com/articles/2019/01/28/1548683053627.html)
+* [GitHub搭配Travis-CI进行Code Review和代码检测教程](https://www.liumapp.com/articles/2019/01/11/1547190585269.html)
 
 ### 热门
 
 * [Bind进阶](https://www.liumapp.com/articles/2017/06/21/1498030426224.html)
 * [限制Nginx日志文件大小](https://www.liumapp.com/articles/2017/06/01/1496286037699.html)
 * [微服务部署在Docker下无法注册到Eureka下的解决办法](https://www.liumapp.com/articles/2018/03/08/1520472997932.html)
-* [修改Github项目的语言分类](https://www.liumapp.com/articles/2017/08/09/1502242821686.html)
 * [ChromeDriver installation failed Error with http(s) request: Error: read ETIMEDOUT解决](https://www.liumapp.com/articles/2017/10/27/1509069874940.html)
+* [修改Github项目的语言分类](https://www.liumapp.com/articles/2017/08/09/1502242821686.html)
 * [关于node-sass及node-gyp安装失败坑的解决办法](https://www.liumapp.com/articles/2018/01/03/1514943853653.html)
 * [Shiro的ShiroFilterFactoryBean在设置ChainDefinitionMap最多12条的限制如何破？](https://www.liumapp.com/articles/2017/09/15/1505441552045.html)
 * [Mac版WebStorm初始化/重置配置](https://www.liumapp.com/articles/2017/11/01/1509508105179.html)
@@ -59,7 +59,6 @@ liumapp
 * [solo皮肤集成失败有哪些原因？](https://www.liumapp.com/articles/2017/06/29/1498706154791.html)
 * [浅析b3log错误页面中的背景线性渐变](https://www.liumapp.com/articles/2017/06/17/1497670906119.html)
 * [B3log 后台拿不到社区推荐、发布的文章也无法同步到社区](https://www.liumapp.com/articles/2017/07/12/1499827297261.html)
-* [GitHub搭配Travis-CI进行Code Review和代码检测教程](https://www.liumapp.com/articles/2019/01/11/1547190585269.html)
 * [清理项目文件的一种有效方式](https://www.liumapp.com/articles/2017/10/09/1507536204078.html)
 * [Jsonp原理](https://www.liumapp.com/articles/2017/11/03/1509714956126.html)
 * [关于使用阿里云ECS服务器的建议](https://www.liumapp.com/articles/2017/06/15/1497496608534.html)
@@ -76,6 +75,7 @@ liumapp
 * [Maven依赖下载失败的原因及解决方案](https://www.liumapp.com/articles/2018/03/02/1519962410735.html)
 * [Mac上使用IDEA部署Solo](https://www.liumapp.com/articles/2017/02/28/1488287718829.html)
 * [PHP mkdir permission denied](https://www.liumapp.com/articles/2017/03/01/1488358552108.html)
+* [starComment](https://www.liumapp.com/articles/2017/03/03/1488522734468.html)
 
 ---
 
