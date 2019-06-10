@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [CentOS7搭建ZooKeeper3.5.5](https://www.liumapp.com/articles/2019/06/10/1560135259222.html)
 * [我的开源](https://www.liumapp.com/my-github-repos)
 * [solo-in-docker现已支持https](https://www.liumapp.com/articles/2019/05/23/1558578407774.html)
 * [acme.sh获取Let's encrypt证书](https://www.liumapp.com/articles/2019/05/23/1558574698880.html)
@@ -29,7 +30,6 @@ liumapp
 * [记事本](https://www.liumapp.com/articles/2019/02/11/1549895850288.html)
 * [发布项目到Maven中央仓库无法通过gpg认证的问题](https://www.liumapp.com/articles/2019/01/28/1548683053471.html)
 * [发布项目到Maven中央仓库无法通过gpg认证的问题](https://www.liumapp.com/articles/2019/01/28/1548683053627.html)
-* [GitHub搭配Travis-CI进行Code Review和代码检测教程](https://www.liumapp.com/articles/2019/01/11/1547190585269.html)
 
 ### 热门
 
@@ -45,20 +45,21 @@ liumapp
 * [Eureka注册服务列表显示IP](https://www.liumapp.com/articles/2018/03/09/1520558595253.html)
 * [CentOS7使用网易的yum镜像源](https://www.liumapp.com/articles/2017/08/01/1501551825701.html)
 * [could not autowire field: private com.netflix.discovery.DiscoveryClient](https://www.liumapp.com/articles/2018/01/19/1516349558499.html)
-* [干货——Spring-Security-Mybatis-Demo](https://www.liumapp.com/articles/2018/02/03/1517659378683.html)
 * [SpringBoot2.x下使用Redis报ClassNotFoundException: redis.clients.jedis.JedisPoolConfig](https://www.liumapp.com/articles/2018/09/18/1537239301796.html)
+* [干货——Spring-Security-Mybatis-Demo](https://www.liumapp.com/articles/2018/02/03/1517659378683.html)
 * [Failed to execute goal org.sonatype.plugins](https://www.liumapp.com/articles/2017/11/27/1511745116428.html)
 * [gpg的安装使用](https://www.liumapp.com/articles/2017/07/20/1500521485758.html)
 * [docker-compose:在容器中添加中文字体](https://www.liumapp.com/articles/2018/06/05/1528179707247.html)
 * [前后端分离实践——Jsonp数据交互](https://www.liumapp.com/articles/2017/11/08/1510100732467.html)
-* [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
 * [自定义iView的Modal组件](https://www.liumapp.com/articles/2018/05/29/1527511707286.html)
+* [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
 
 ### 热议
 
 * [solo皮肤集成失败有哪些原因？](https://www.liumapp.com/articles/2017/06/29/1498706154791.html)
 * [浅析b3log错误页面中的背景线性渐变](https://www.liumapp.com/articles/2017/06/17/1497670906119.html)
 * [B3log 后台拿不到社区推荐、发布的文章也无法同步到社区](https://www.liumapp.com/articles/2017/07/12/1499827297261.html)
+* [GitHub搭配Travis-CI进行Code Review和代码检测教程](https://www.liumapp.com/articles/2019/01/11/1547190585269.html)
 * [清理项目文件的一种有效方式](https://www.liumapp.com/articles/2017/10/09/1507536204078.html)
 * [Jsonp原理](https://www.liumapp.com/articles/2017/11/03/1509714956126.html)
 * [关于使用阿里云ECS服务器的建议](https://www.liumapp.com/articles/2017/06/15/1497496608534.html)
@@ -75,7 +76,6 @@ liumapp
 * [Maven依赖下载失败的原因及解决方案](https://www.liumapp.com/articles/2018/03/02/1519962410735.html)
 * [Mac上使用IDEA部署Solo](https://www.liumapp.com/articles/2017/02/28/1488287718829.html)
 * [PHP mkdir permission denied](https://www.liumapp.com/articles/2017/03/01/1488358552108.html)
-* [starComment](https://www.liumapp.com/articles/2017/03/03/1488522734468.html)
 
 ---
 
