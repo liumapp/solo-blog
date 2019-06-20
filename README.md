@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [嵌入式数据库H2使用总结](https://www.liumapp.com/articles/2019/06/19/1560927351722.html)
 * [CentOS7搭建ZooKeeper3.5.5](https://www.liumapp.com/articles/2019/06/10/1560135259222.html)
 * [我的开源](https://www.liumapp.com/my-github-repos)
 * [solo-in-docker现已支持https](https://www.liumapp.com/articles/2019/05/23/1558578407774.html)
@@ -29,7 +30,6 @@ liumapp
 * [jdk1.8中使用最新的时间方法](https://www.liumapp.com/articles/2019/03/17/1552826323755.html)
 * [记事本](https://www.liumapp.com/articles/2019/02/11/1549895850288.html)
 * [发布项目到Maven中央仓库无法通过gpg认证的问题](https://www.liumapp.com/articles/2019/01/28/1548683053471.html)
-* [发布项目到Maven中央仓库无法通过gpg认证的问题](https://www.liumapp.com/articles/2019/01/28/1548683053627.html)
 
 ### 热门
 
@@ -43,15 +43,15 @@ liumapp
 * [Mac版WebStorm初始化/重置配置](https://www.liumapp.com/articles/2017/11/01/1509508105179.html)
 * [Gitlab更换管理员账号](https://www.liumapp.com/articles/2017/09/20/1505869072729.html)
 * [SpringBoot2.x下使用Redis报ClassNotFoundException: redis.clients.jedis.JedisPoolConfig](https://www.liumapp.com/articles/2018/09/18/1537239301796.html)
-* [Eureka注册服务列表显示IP](https://www.liumapp.com/articles/2018/03/09/1520558595253.html)
 * [CentOS7使用网易的yum镜像源](https://www.liumapp.com/articles/2017/08/01/1501551825701.html)
+* [Eureka注册服务列表显示IP](https://www.liumapp.com/articles/2018/03/09/1520558595253.html)
 * [could not autowire field: private com.netflix.discovery.DiscoveryClient](https://www.liumapp.com/articles/2018/01/19/1516349558499.html)
 * [干货——Spring-Security-Mybatis-Demo](https://www.liumapp.com/articles/2018/02/03/1517659378683.html)
 * [Failed to execute goal org.sonatype.plugins](https://www.liumapp.com/articles/2017/11/27/1511745116428.html)
 * [docker-compose:在容器中添加中文字体](https://www.liumapp.com/articles/2018/06/05/1528179707247.html)
 * [gpg的安装使用](https://www.liumapp.com/articles/2017/07/20/1500521485758.html)
-* [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
 * [自定义iView的Modal组件](https://www.liumapp.com/articles/2018/05/29/1527511707286.html)
+* [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
 * [前后端分离实践——Jsonp数据交互](https://www.liumapp.com/articles/2017/11/08/1510100732467.html)
 
 ### 热议
