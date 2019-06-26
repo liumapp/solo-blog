@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [使用docker-compose快速构建zookeeper单机或集群环境](https://www.liumapp.com/articles/2019/06/25/1561428785608.html)
 * [嵌入式数据库H2使用总结](https://www.liumapp.com/articles/2019/06/19/1560927351722.html)
 * [CentOS7搭建ZooKeeper3.5.5](https://www.liumapp.com/articles/2019/06/10/1560135259222.html)
 * [我的开源](https://www.liumapp.com/my-github-repos)
@@ -29,7 +30,6 @@ liumapp
 * [处理MySQL常见问题之："[ERR] 2006 - MySQL server has gone away"](https://www.liumapp.com/articles/2019/03/20/1553044657099.html)
 * [jdk1.8中使用最新的时间方法](https://www.liumapp.com/articles/2019/03/17/1552826323755.html)
 * [记事本](https://www.liumapp.com/articles/2019/02/11/1549895850288.html)
-* [发布项目到Maven中央仓库无法通过gpg认证的问题](https://www.liumapp.com/articles/2019/01/28/1548683053471.html)
 
 ### 热门
 
@@ -38,8 +38,8 @@ liumapp
 * [微服务部署在Docker下无法注册到Eureka下的解决办法](https://www.liumapp.com/articles/2018/03/08/1520472997932.html)
 * [修改Github项目的语言分类](https://www.liumapp.com/articles/2017/08/09/1502242821686.html)
 * [ChromeDriver installation failed Error with http(s) request: Error: read ETIMEDOUT解决](https://www.liumapp.com/articles/2017/10/27/1509069874940.html)
-* [关于node-sass及node-gyp安装失败坑的解决办法](https://www.liumapp.com/articles/2018/01/03/1514943853653.html)
 * [Shiro的ShiroFilterFactoryBean在设置ChainDefinitionMap最多12条的限制如何破？](https://www.liumapp.com/articles/2017/09/15/1505441552045.html)
+* [关于node-sass及node-gyp安装失败坑的解决办法](https://www.liumapp.com/articles/2018/01/03/1514943853653.html)
 * [Mac版WebStorm初始化/重置配置](https://www.liumapp.com/articles/2017/11/01/1509508105179.html)
 * [Gitlab更换管理员账号](https://www.liumapp.com/articles/2017/09/20/1505869072729.html)
 * [SpringBoot2.x下使用Redis报ClassNotFoundException: redis.clients.jedis.JedisPoolConfig](https://www.liumapp.com/articles/2018/09/18/1537239301796.html)
