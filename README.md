@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [在Docker中运行的ZooKeeper无法使用四字命令问题解决](https://www.liumapp.com/articles/2019/07/08/1562568246195.html)
 * [使用docker-compose快速构建zookeeper单机或集群环境](https://www.liumapp.com/articles/2019/06/25/1561428785608.html)
 * [嵌入式数据库H2使用总结](https://www.liumapp.com/articles/2019/06/19/1560927351722.html)
 * [CentOS7搭建ZooKeeper3.5.5](https://www.liumapp.com/articles/2019/06/10/1560135259222.html)
@@ -29,7 +30,6 @@ liumapp
 * [处理Mysql常见问题之：“Unknown system variab le 'tx_isolation'”](https://www.liumapp.com/articles/2019/03/20/1553062186647.html)
 * [处理MySQL常见问题之："[ERR] 2006 - MySQL server has gone away"](https://www.liumapp.com/articles/2019/03/20/1553044657099.html)
 * [jdk1.8中使用最新的时间方法](https://www.liumapp.com/articles/2019/03/17/1552826323755.html)
-* [记事本](https://www.liumapp.com/articles/2019/02/11/1549895850288.html)
 
 ### 热门
 
