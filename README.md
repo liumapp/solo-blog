@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [复现一个典型的线上Spring Bean对象的线程安全问题（附三种解决办法）](https://www.liumapp.com/articles/2019/07/16/1563262974392.html)
 * [在Docker中运行的ZooKeeper无法使用四字命令问题解决](https://www.liumapp.com/articles/2019/07/08/1562568246195.html)
 * [使用docker-compose快速构建zookeeper单机或集群环境](https://www.liumapp.com/articles/2019/06/25/1561428785608.html)
 * [嵌入式数据库H2使用总结](https://www.liumapp.com/articles/2019/06/19/1560927351722.html)
@@ -29,7 +30,6 @@ liumapp
 * [处理Mysql常见问题之：" The server time zone value '???ú±ê×??±??' is unrecognized or represents more than one time zone."](https://www.liumapp.com/articles/2019/03/20/1553062540312.html)
 * [处理Mysql常见问题之：“Unknown system variab le 'tx_isolation'”](https://www.liumapp.com/articles/2019/03/20/1553062186647.html)
 * [处理MySQL常见问题之："[ERR] 2006 - MySQL server has gone away"](https://www.liumapp.com/articles/2019/03/20/1553044657099.html)
-* [jdk1.8中使用最新的时间方法](https://www.liumapp.com/articles/2019/03/17/1552826323755.html)
 
 ### 热门
 
