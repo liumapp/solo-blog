@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [Spring-RedisTemplate写入数据乱码问题的复现与解决](https://www.liumapp.com/articles/2019/08/06/1565075584839.html)
 * [Spring Boot Admin排坑指南](https://www.liumapp.com/articles/2019/08/03/1564813578454.html)
 * [复现一个典型的线上Spring Bean对象的线程安全问题（附三种解决办法）](https://www.liumapp.com/articles/2019/07/16/1563262974392.html)
 * [在Docker中运行的ZooKeeper无法使用四字命令问题解决](https://www.liumapp.com/articles/2019/07/08/1562568246195.html)
@@ -29,7 +30,6 @@ liumapp
 * [通过本地repository加载jar包到Maven依赖中](https://www.liumapp.com/articles/2019/04/12/1555053553824.html)
 * [docker-compose编排solo+mysql镜像](https://www.liumapp.com/articles/2019/04/04/1554361784974.html)
 * [处理Mysql常见问题之：" The server time zone value '???ú±ê×??±??' is unrecognized or represents more than one time zone."](https://www.liumapp.com/articles/2019/03/20/1553062540312.html)
-* [处理Mysql常见问题之：“Unknown system variab le 'tx_isolation'”](https://www.liumapp.com/articles/2019/03/20/1553062186647.html)
 
 ### 热门
 
@@ -50,8 +50,8 @@ liumapp
 * [docker-compose:在容器中添加中文字体](https://www.liumapp.com/articles/2018/06/05/1528179707247.html)
 * [Failed to execute goal org.sonatype.plugins](https://www.liumapp.com/articles/2017/11/27/1511745116428.html)
 * [自定义iView的Modal组件](https://www.liumapp.com/articles/2018/05/29/1527511707286.html)
-* [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
 * [gpg的安装使用](https://www.liumapp.com/articles/2017/07/20/1500521485758.html)
+* [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
 * [前后端分离实践——Jsonp数据交互](https://www.liumapp.com/articles/2017/11/08/1510100732467.html)
 
 ### 热议
