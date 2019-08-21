@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [Gitlab-error: RPC failed; result=22, HTTP code = 500解决](https://www.liumapp.com/articles/2019/08/21/1566357223658.html)
 * [Spring-RedisTemplate写入数据乱码问题的复现与解决](https://www.liumapp.com/articles/2019/08/06/1565075584839.html)
 * [Spring Boot Admin排坑指南](https://www.liumapp.com/articles/2019/08/03/1564813578454.html)
 * [复现一个典型的线上Spring Bean对象的线程安全问题（附三种解决办法）](https://www.liumapp.com/articles/2019/07/16/1563262974392.html)
@@ -29,7 +30,6 @@ liumapp
 * [基于aspose.word的Java文档转换项目](https://www.liumapp.com/articles/2019/04/15/1555310407274.html)
 * [通过本地repository加载jar包到Maven依赖中](https://www.liumapp.com/articles/2019/04/12/1555053553824.html)
 * [docker-compose编排solo+mysql镜像](https://www.liumapp.com/articles/2019/04/04/1554361784974.html)
-* [处理Mysql常见问题之：" The server time zone value '???ú±ê×??±??' is unrecognized or represents more than one time zone."](https://www.liumapp.com/articles/2019/03/20/1553062540312.html)
 
 ### 热门
 
