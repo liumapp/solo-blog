@@ -36,8 +36,8 @@ liumapp
 * [Bind进阶](https://www.liumapp.com/articles/2017/06/21/1498030426224.html)
 * [限制Nginx日志文件大小](https://www.liumapp.com/articles/2017/06/01/1496286037699.html)
 * [微服务部署在Docker下无法注册到Eureka下的解决办法](https://www.liumapp.com/articles/2018/03/08/1520472997932.html)
-* [修改Github项目的语言分类](https://www.liumapp.com/articles/2017/08/09/1502242821686.html)
 * [ChromeDriver installation failed Error with http(s) request: Error: read ETIMEDOUT解决](https://www.liumapp.com/articles/2017/10/27/1509069874940.html)
+* [修改Github项目的语言分类](https://www.liumapp.com/articles/2017/08/09/1502242821686.html)
 * [Shiro的ShiroFilterFactoryBean在设置ChainDefinitionMap最多12条的限制如何破？](https://www.liumapp.com/articles/2017/09/15/1505441552045.html)
 * [关于node-sass及node-gyp安装失败坑的解决办法](https://www.liumapp.com/articles/2018/01/03/1514943853653.html)
 * [SpringBoot2.x下使用Redis报ClassNotFoundException: redis.clients.jedis.JedisPoolConfig](https://www.liumapp.com/articles/2018/09/18/1537239301796.html)
@@ -52,7 +52,7 @@ liumapp
 * [自定义iView的Modal组件](https://www.liumapp.com/articles/2018/05/29/1527511707286.html)
 * [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
 * [gpg的安装使用](https://www.liumapp.com/articles/2017/07/20/1500521485758.html)
-* [前后端分离实践——Jsonp数据交互](https://www.liumapp.com/articles/2017/11/08/1510100732467.html)
+* [阿里云部署Docker项目的坑](https://www.liumapp.com/articles/2018/08/14/1534256216773.html)
 
 ### 热议
 
@@ -60,6 +60,7 @@ liumapp
 * [浅析b3log错误页面中的背景线性渐变](https://www.liumapp.com/articles/2017/06/17/1497670906119.html)
 * [B3log 后台拿不到社区推荐、发布的文章也无法同步到社区](https://www.liumapp.com/articles/2017/07/12/1499827297261.html)
 * [GitHub搭配Travis-CI进行Code Review和代码检测教程](https://www.liumapp.com/articles/2019/01/11/1547190585269.html)
+* [前后端分离实践——Jsonp数据交互](https://www.liumapp.com/articles/2017/11/08/1510100732467.html)
 * [清理项目文件的一种有效方式](https://www.liumapp.com/articles/2017/10/09/1507536204078.html)
 * [Jsonp原理](https://www.liumapp.com/articles/2017/11/03/1509714956126.html)
 * [关于使用阿里云ECS服务器的建议](https://www.liumapp.com/articles/2017/06/15/1497496608534.html)
@@ -68,7 +69,6 @@ liumapp
 * [Maven设置阿里云中央仓库](https://www.liumapp.com/articles/2017/10/22/1508647241163.html)
 * [发布个人第二个项目到Maven中央仓库](https://www.liumapp.com/articles/2017/11/15/1510713422953.html)
 * [docker-compose一键部署Nginx+Tomcat+Mysql+solo2.7.0](https://www.liumapp.com/articles/2018/05/17/1526479530037.html)
-* [阿里云部署Docker项目的坑](https://www.liumapp.com/articles/2018/08/14/1534256216773.html)
 * [商业web应用中正确的使用header，container，footer布局页面](https://www.liumapp.com/articles/2017/03/04/1488590207037.html)
 * [composer关于psr-4的一个小坑](https://www.liumapp.com/articles/2017/03/22/1490170969445.html)
 * [Linux/Unix下的程序安装](https://www.liumapp.com/articles/2017/06/08/1496888135985.html)
