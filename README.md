@@ -10,6 +10,8 @@ liumapp
 
 ### 最新
 
+* [多线程之线程池-各个参数的含义](https://www.liumapp.com/articles/2019/08/26/1566821421592.html)
+* [论integer是地址传递还是值传递 ](https://www.liumapp.com/articles/2019/08/26/1566806934099.html)
 * [Gitlab-error: RPC failed; result=22, HTTP code = 500解决](https://www.liumapp.com/articles/2019/08/21/1566357223658.html)
 * [Spring-RedisTemplate写入数据乱码问题的复现与解决](https://www.liumapp.com/articles/2019/08/06/1565075584839.html)
 * [Spring Boot Admin排坑指南](https://www.liumapp.com/articles/2019/08/03/1564813578454.html)
@@ -28,8 +30,6 @@ liumapp
 * [干货：如何模拟超过 5 万的并发用户](https://www.liumapp.com/articles/2019/04/28/1556414111333.html)
 * [CentOS7安装LibreOffice6.2.3](https://www.liumapp.com/articles/2019/04/25/1556178926172.html)
 * [基于aspose.word的Java文档转换项目](https://www.liumapp.com/articles/2019/04/15/1555310407274.html)
-* [通过本地repository加载jar包到Maven依赖中](https://www.liumapp.com/articles/2019/04/12/1555053553824.html)
-* [docker-compose编排solo+mysql镜像](https://www.liumapp.com/articles/2019/04/04/1554361784974.html)
 
 ### 热门
 
@@ -74,8 +74,8 @@ liumapp
 * [Linux/Unix下的程序安装](https://www.liumapp.com/articles/2017/06/08/1496888135985.html)
 * [Git为单一项目设置git用户名和邮箱](https://www.liumapp.com/articles/2017/10/25/1508933894966.html)
 * [Maven依赖下载失败的原因及解决方案](https://www.liumapp.com/articles/2018/03/02/1519962410735.html)
+* [docker-compose编排solo+mysql镜像](https://www.liumapp.com/articles/2019/04/04/1554361784974.html)
 * [Mac上使用IDEA部署Solo](https://www.liumapp.com/articles/2017/02/28/1488287718829.html)
-* [PHP mkdir permission denied](https://www.liumapp.com/articles/2017/03/01/1488358552108.html)
 
 ---
 
