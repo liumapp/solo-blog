@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [JDK中常用的设计模式](https://www.liumapp.com/articles/2019/09/04/1567559131992.html)
 * [多线程之线程池-各个参数的含义](https://www.liumapp.com/articles/2019/08/26/1566821421592.html)
 * [论integer是地址传递还是值传递 ](https://www.liumapp.com/articles/2019/08/26/1566806934099.html)
 * [Gitlab-error: RPC failed; result=22, HTTP code = 500解决](https://www.liumapp.com/articles/2019/08/21/1566357223658.html)
@@ -29,16 +30,15 @@ liumapp
 * [Maven与Gradle构建Fat-Jar工程](https://www.liumapp.com/articles/2019/05/13/1557747040354.html)
 * [干货：如何模拟超过 5 万的并发用户](https://www.liumapp.com/articles/2019/04/28/1556414111333.html)
 * [CentOS7安装LibreOffice6.2.3](https://www.liumapp.com/articles/2019/04/25/1556178926172.html)
-* [基于aspose.word的Java文档转换项目](https://www.liumapp.com/articles/2019/04/15/1555310407274.html)
 
 ### 热门
 
 * [Bind进阶](https://www.liumapp.com/articles/2017/06/21/1498030426224.html)
 * [限制Nginx日志文件大小](https://www.liumapp.com/articles/2017/06/01/1496286037699.html)
 * [微服务部署在Docker下无法注册到Eureka下的解决办法](https://www.liumapp.com/articles/2018/03/08/1520472997932.html)
+* [Shiro的ShiroFilterFactoryBean在设置ChainDefinitionMap最多12条的限制如何破？](https://www.liumapp.com/articles/2017/09/15/1505441552045.html)
 * [ChromeDriver installation failed Error with http(s) request: Error: read ETIMEDOUT解决](https://www.liumapp.com/articles/2017/10/27/1509069874940.html)
 * [修改Github项目的语言分类](https://www.liumapp.com/articles/2017/08/09/1502242821686.html)
-* [Shiro的ShiroFilterFactoryBean在设置ChainDefinitionMap最多12条的限制如何破？](https://www.liumapp.com/articles/2017/09/15/1505441552045.html)
 * [SpringBoot2.x下使用Redis报ClassNotFoundException: redis.clients.jedis.JedisPoolConfig](https://www.liumapp.com/articles/2018/09/18/1537239301796.html)
 * [关于node-sass及node-gyp安装失败坑的解决办法](https://www.liumapp.com/articles/2018/01/03/1514943853653.html)
 * [Mac版WebStorm初始化/重置配置](https://www.liumapp.com/articles/2017/11/01/1509508105179.html)
