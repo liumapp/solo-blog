@@ -74,8 +74,8 @@ liumapp
 * [Linux/Unix下的程序安装](https://www.liumapp.com/articles/2017/06/08/1496888135985.html)
 * [Git为单一项目设置git用户名和邮箱](https://www.liumapp.com/articles/2017/10/25/1508933894966.html)
 * [Maven依赖下载失败的原因及解决方案](https://www.liumapp.com/articles/2018/03/02/1519962410735.html)
+* [Maven编译失败: package sun.security.pkcs10 doesn't exit](https://www.liumapp.com/articles/2018/07/28/1532778240331.html)
 * [docker-compose编排solo+mysql镜像](https://www.liumapp.com/articles/2019/04/04/1554361784974.html)
-* [Mac上使用IDEA部署Solo](https://www.liumapp.com/articles/2017/02/28/1488287718829.html)
 
 ---
 
