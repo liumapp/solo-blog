@@ -10,6 +10,8 @@ liumapp
 
 ### 最新
 
+* [阿里程序员推荐的15 款常用开发者工具](https://www.liumapp.com/articles/2019/09/10/1568080664459.html)
+* [redis cli命令](https://www.liumapp.com/articles/2019/09/10/1568078113519.html)
 * [JDK中常用的设计模式](https://www.liumapp.com/articles/2019/09/04/1567559131992.html)
 * [多线程之线程池-各个参数的含义](https://www.liumapp.com/articles/2019/08/26/1566821421592.html)
 * [论integer是地址传递还是值传递 ](https://www.liumapp.com/articles/2019/08/26/1566806934099.html)
@@ -28,8 +30,6 @@ liumapp
 * [Hello, Caddy](https://www.liumapp.com/articles/2019/05/21/1558408869892.html)
 * [可能是国内封装Libreoffice最好的一个项目](https://www.liumapp.com/articles/2019/05/17/1558083959455.html)
 * [Maven与Gradle构建Fat-Jar工程](https://www.liumapp.com/articles/2019/05/13/1557747040354.html)
-* [干货：如何模拟超过 5 万的并发用户](https://www.liumapp.com/articles/2019/04/28/1556414111333.html)
-* [CentOS7安装LibreOffice6.2.3](https://www.liumapp.com/articles/2019/04/25/1556178926172.html)
 
 ### 热门
 
@@ -47,12 +47,12 @@ liumapp
 * [Eureka注册服务列表显示IP](https://www.liumapp.com/articles/2018/03/09/1520558595253.html)
 * [could not autowire field: private com.netflix.discovery.DiscoveryClient](https://www.liumapp.com/articles/2018/01/19/1516349558499.html)
 * [docker-compose:在容器中添加中文字体](https://www.liumapp.com/articles/2018/06/05/1528179707247.html)
-* [干货——Spring-Security-Mybatis-Demo](https://www.liumapp.com/articles/2018/02/03/1517659378683.html)
 * [Failed to execute goal org.sonatype.plugins](https://www.liumapp.com/articles/2017/11/27/1511745116428.html)
+* [干货——Spring-Security-Mybatis-Demo](https://www.liumapp.com/articles/2018/02/03/1517659378683.html)
 * [自定义iView的Modal组件](https://www.liumapp.com/articles/2018/05/29/1527511707286.html)
 * [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
-* [gpg的安装使用](https://www.liumapp.com/articles/2017/07/20/1500521485758.html)
 * [阿里云部署Docker项目的坑](https://www.liumapp.com/articles/2018/08/14/1534256216773.html)
+* [gpg的安装使用](https://www.liumapp.com/articles/2017/07/20/1500521485758.html)
 
 ### 热议
 
@@ -63,6 +63,7 @@ liumapp
 * [前后端分离实践——Jsonp数据交互](https://www.liumapp.com/articles/2017/11/08/1510100732467.html)
 * [清理项目文件的一种有效方式](https://www.liumapp.com/articles/2017/10/09/1507536204078.html)
 * [Jsonp原理](https://www.liumapp.com/articles/2017/11/03/1509714956126.html)
+* [CentOS7安装LibreOffice6.2.3](https://www.liumapp.com/articles/2019/04/25/1556178926172.html)
 * [关于使用阿里云ECS服务器的建议](https://www.liumapp.com/articles/2017/06/15/1497496608534.html)
 * [MacIDEA通过devtools集成热部署](https://www.liumapp.com/articles/2017/08/25/1503644138971.html)
 * [蓝猫宝宝找媳妇儿](https://www.liumapp.com/articles/2017/10/11/1507704304838.html)
@@ -75,7 +76,6 @@ liumapp
 * [Git为单一项目设置git用户名和邮箱](https://www.liumapp.com/articles/2017/10/25/1508933894966.html)
 * [Maven依赖下载失败的原因及解决方案](https://www.liumapp.com/articles/2018/03/02/1519962410735.html)
 * [Maven编译失败: package sun.security.pkcs10 doesn't exit](https://www.liumapp.com/articles/2018/07/28/1532778240331.html)
-* [docker-compose编排solo+mysql镜像](https://www.liumapp.com/articles/2019/04/04/1554361784974.html)
 
 ---
 
