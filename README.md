@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [Redis在Docker中的数据持久化](https://www.liumapp.com/articles/2019/09/11/1568193356679.html)
 * [阿里程序员推荐的15 款常用开发者工具](https://www.liumapp.com/articles/2019/09/10/1568080664459.html)
 * [redis cli命令](https://www.liumapp.com/articles/2019/09/10/1568078113519.html)
 * [JDK中常用的设计模式](https://www.liumapp.com/articles/2019/09/04/1567559131992.html)
@@ -29,7 +30,6 @@ liumapp
 * [Mysql创建单列索引解决单表LongBlob字段查询过慢问题](https://www.liumapp.com/articles/2019/05/21/1558429665771.html)
 * [Hello, Caddy](https://www.liumapp.com/articles/2019/05/21/1558408869892.html)
 * [可能是国内封装Libreoffice最好的一个项目](https://www.liumapp.com/articles/2019/05/17/1558083959455.html)
-* [Maven与Gradle构建Fat-Jar工程](https://www.liumapp.com/articles/2019/05/13/1557747040354.html)
 
 ### 热门
 
