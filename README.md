@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [ValidatorException异常处理-PKIX path building failed](https://www.liumapp.com/articles/2019/10/21/1571622009261.html)
 * [Redis在Docker中的数据持久化](https://www.liumapp.com/articles/2019/09/11/1568193356679.html)
 * [阿里程序员推荐的15 款常用开发者工具](https://www.liumapp.com/articles/2019/09/10/1568080664459.html)
 * [redis cli命令](https://www.liumapp.com/articles/2019/09/10/1568078113519.html)
@@ -29,7 +30,6 @@ liumapp
 * [acme.sh获取Let's encrypt证书](https://www.liumapp.com/articles/2019/05/23/1558574698880.html)
 * [Mysql创建单列索引解决单表LongBlob字段查询过慢问题](https://www.liumapp.com/articles/2019/05/21/1558429665771.html)
 * [Hello, Caddy](https://www.liumapp.com/articles/2019/05/21/1558408869892.html)
-* [可能是国内封装Libreoffice最好的一个项目](https://www.liumapp.com/articles/2019/05/17/1558083959455.html)
 
 ### 热门
 
@@ -52,7 +52,7 @@ liumapp
 * [自定义iView的Modal组件](https://www.liumapp.com/articles/2018/05/29/1527511707286.html)
 * [阿里云部署Docker项目的坑](https://www.liumapp.com/articles/2018/08/14/1534256216773.html)
 * [电子合同：设计与实现思路](https://www.liumapp.com/articles/2017/09/19/1505806687238.html)
-* [gpg的安装使用](https://www.liumapp.com/articles/2017/07/20/1500521485758.html)
+* [前后端分离实践——Jsonp数据交互](https://www.liumapp.com/articles/2017/11/08/1510100732467.html)
 
 ### 热议
 
@@ -60,7 +60,6 @@ liumapp
 * [浅析b3log错误页面中的背景线性渐变](https://www.liumapp.com/articles/2017/06/17/1497670906119.html)
 * [B3log 后台拿不到社区推荐、发布的文章也无法同步到社区](https://www.liumapp.com/articles/2017/07/12/1499827297261.html)
 * [GitHub搭配Travis-CI进行Code Review和代码检测教程](https://www.liumapp.com/articles/2019/01/11/1547190585269.html)
-* [前后端分离实践——Jsonp数据交互](https://www.liumapp.com/articles/2017/11/08/1510100732467.html)
 * [清理项目文件的一种有效方式](https://www.liumapp.com/articles/2017/10/09/1507536204078.html)
 * [Jsonp原理](https://www.liumapp.com/articles/2017/11/03/1509714956126.html)
 * [CentOS7安装LibreOffice6.2.3](https://www.liumapp.com/articles/2019/04/25/1556178926172.html)
@@ -76,6 +75,7 @@ liumapp
 * [Git为单一项目设置git用户名和邮箱](https://www.liumapp.com/articles/2017/10/25/1508933894966.html)
 * [Maven依赖下载失败的原因及解决方案](https://www.liumapp.com/articles/2018/03/02/1519962410735.html)
 * [Maven编译失败: package sun.security.pkcs10 doesn't exit](https://www.liumapp.com/articles/2018/07/28/1532778240331.html)
+* [docker-compose编排solo+mysql镜像](https://www.liumapp.com/articles/2019/04/04/1554361784974.html)
 
 ---
 
