@@ -10,6 +10,7 @@ liumapp
 
 ### 最新
 
+* [谨慎使用Netty的readBytes](https://www.liumapp.com/articles/2019/11/04/1572869617081.html)
 * [ValidatorException异常处理-PKIX path building failed](https://www.liumapp.com/articles/2019/10/21/1571622009261.html)
 * [Redis在Docker中的数据持久化](https://www.liumapp.com/articles/2019/09/11/1568193356679.html)
 * [阿里程序员推荐的15 款常用开发者工具](https://www.liumapp.com/articles/2019/09/10/1568080664459.html)
@@ -29,7 +30,6 @@ liumapp
 * [solo-in-docker现已支持https](https://www.liumapp.com/articles/2019/05/23/1558578407774.html)
 * [acme.sh获取Let's encrypt证书](https://www.liumapp.com/articles/2019/05/23/1558574698880.html)
 * [Mysql创建单列索引解决单表LongBlob字段查询过慢问题](https://www.liumapp.com/articles/2019/05/21/1558429665771.html)
-* [Hello, Caddy](https://www.liumapp.com/articles/2019/05/21/1558408869892.html)
 
 ### 热门
 
